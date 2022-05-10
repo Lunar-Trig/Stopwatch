@@ -1,0 +1,33 @@
+.container-fluid{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top:12em;
+    right:16rem;
+    width:128em;
+}
+
+h1{
+    font-size: 9.7em;
+    margin-left: 1.7em;
+}
+
+span{
+    font-size: 7em;
+    position: absolute;
+    top:2em;
+    left:7.5em;
+}
+
+.btn-group{
+    position: relative;
+    left:45.63em;
+    top:19em;
+}
+
+a{
+    margin-left: 1.5em;
+}
+
+a:hover{
+    cursor: pointer;
+}
